@@ -1,6 +1,6 @@
 # ViewModelAdapterPattern
 
-View Models ensulates the application from the possible changes in the API Models
+View Models insulates the application from the possible changes in the API Models
 
 ## Development server
 
